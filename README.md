@@ -1,3 +1,3 @@
-##This is a sample
-#by Archer Turqueza
+#This is a sample
+by Archer Turqueza
 
